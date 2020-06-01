@@ -14,3 +14,4 @@ add your own paypal button into your website, delete the one already there, or t
 5) change all the footers and make sure you share the changes to all pages
 6) add shipping, privacy and about policies into the corresponding pages
 7) add some transparent background .png files into the index page 
+
